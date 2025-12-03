@@ -89,6 +89,14 @@
     width: 24px;
     cursor: pointer;
 }
+.search-box input{
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    paddint
+
+}
 .main .card p{
     color: #;
 }
