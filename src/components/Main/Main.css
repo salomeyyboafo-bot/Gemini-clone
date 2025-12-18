@@ -74,6 +74,8 @@
     max-width: 900px;
     padding: 0px 20px;
     margin: auto;
+    background-color: #ff5546;
+    
 
 }
 .search-box{
@@ -81,7 +83,8 @@
     align-items: center;
     justify-content: space-between;
     gap: 20px;
-    background-color: #f0f4f9;
+    /* background-color: #f0f4f9; */
+    background-color: #e5e9f0;
     padding: 10px 20px;
     border-radius: 50px;
 }
@@ -94,9 +97,16 @@
     background: transparent;
     border: none;
     outline: none;
-    paddint
+    padding: 8px;
+    font-size: 18px;
 
 }
+.search-box div{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
 .main .card p{
-    color: #;
+    color: 
 }
