@@ -83,8 +83,8 @@
     align-items: center;
     justify-content: space-between;
     gap: 20px;
-    /* background-color: #f0f4f9; */
-    background-color: #e5e9f0;
+    background-color: #f0f4f9; */
+    /* background-color: #e5e9f0; */
     padding: 10px 20px;
     border-radius: 50px;
 }
@@ -107,6 +107,13 @@
     gap: 15px;
 }
 
-.main .card p{
-    color: 
+.main .bottom-info{
+    font-size: 13px;
+    margin: 15px auto;
+    text-align: center;
+    font-weight: 300;
+}
+
+
+
 }
